@@ -8,4 +8,4 @@
 ### media
 - Some images by the project
 ### video
-- video (the project do whith by the poli Mayor class video)
+- video (the project do with by the poli Mayor class video)
